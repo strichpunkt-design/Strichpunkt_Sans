@@ -2,7 +2,6 @@
 .appVersion = "3436";
 .formatVersion = 3;
 DisplayStrings = (
-"båå",
 "­"
 );
 axes = (
@@ -11,6 +10,7 @@ name = Weight;
 tag = wght;
 },
 {
+hidden = 1;
 name = Width;
 tag = wdth;
 }
@@ -63772,7 +63772,7 @@ Location = 200;
 instanceInterpolations = {
 "420CDBF3-1EA9-4A60-A2C9-262C353BE567" = 1;
 };
-name = "Expanded Regular";
+name = "Exp Regular";
 properties = (
 {
 key = familyNames;
@@ -63810,7 +63810,7 @@ instanceInterpolations = {
 "420CDBF3-1EA9-4A60-A2C9-262C353BE567" = 0.8;
 "5EDB8360-C867-4183-822A-D387B21AE085" = 0.2;
 };
-name = "Expanded Medium";
+name = "Exp Medium";
 properties = (
 {
 key = familyNames;
@@ -63849,7 +63849,7 @@ instanceInterpolations = {
 "420CDBF3-1EA9-4A60-A2C9-262C353BE567" = 0.6;
 "5EDB8360-C867-4183-822A-D387B21AE085" = 0.4;
 };
-name = "Expanded SemiBold";
+name = "Exp SemiBold";
 properties = (
 {
 key = familyNames;
@@ -63890,7 +63890,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "Expanded Regular";
-name = "Expanded Bold";
+name = "Exp Bold";
 properties = (
 {
 key = familyNames;
@@ -63929,7 +63929,7 @@ instanceInterpolations = {
 "420CDBF3-1EA9-4A60-A2C9-262C353BE567" = 0.2;
 "5EDB8360-C867-4183-822A-D387B21AE085" = 0.8;
 };
-name = "Expanded ExtraBold";
+name = "Exp ExtraBold";
 properties = (
 {
 key = familyNames;
@@ -63967,7 +63967,7 @@ Location = 200;
 instanceInterpolations = {
 "5EDB8360-C867-4183-822A-D387B21AE085" = 1;
 };
-name = "Expanded Black";
+name = "Exp Black";
 properties = (
 {
 key = familyNames;
