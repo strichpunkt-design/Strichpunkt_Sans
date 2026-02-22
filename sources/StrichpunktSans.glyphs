@@ -2,453 +2,17 @@
 .appVersion = "3436";
 .formatVersion = 3;
 DisplayStrings = (
-"01 Akkurat 02 Bumblebee 03 Calcium 04 Darmstadt 
-05 Edelmetall 06 Füllfarbe 07 Ginger 08 Haftbefehl 
-09 Identität 10 Jojoba 11 Kleinkram 12 Linoleum
-13 Minimum 14 Nonnen 15 Ottonormal 16 Papier 
-17 Quoquitt 18 Roadrunner 19 System 20 Tarantula 
-21 Uruguay 22 Vivien 23 Westwood 24 Xentax 
-25 Ypsilony 26 Zeitzeugen 27 Stoßmaße 28 STOẞMAẞE
-
-AMAZING ABIDE ACORN OF THE HABIT DACRON FOR THE BUDDHA GOUDA QUAALUDE.
-
-Angel Adaption Amazing Assassinators Apolonia Antigua Arena Appenzeller Aluminium Adaption Accordion Asphalt Asana Asiatinnen
-
-Angel angel adept for the nuance loads of the arena cocoa and quaalude.
-
-BLINDEN BENCH BOGUS OF THE SCRIBE ROBOT FOR THE APLOMB JACOB RIBBON. 
-
-Bootcamp Bananenbrot Brotaufstrich Butterquark Blind  Basically Bohnenkresse
-
-Blind blind bodice for the submit oboe of the club snob and abbot. 
-
-CLIQUEN CENSUS CORAL OF THE SPICED JOCOSE FOR THE BASIC HAVOC SOCCER. 
-
-Campton Company Crying Calculator Cinderella  Cliquenbildung Camouflage Commodity Cinnamon Camping Coconuts Cinderella Casablanca 
-
-Clique clique coastal for the pouch loco of the franc assoc and accelerator. 
-
-DUBLIN DEMURE DOCILE OF THE TIDBIT LODGER FOR THE CUSPID PERIOD BIDDER. 
-
-Dalmatiner Dramaturgie Dokumente Diagnostik Denkarbeit Dunkelkammer Diagramm Dictionary Dominikaner Doorbells Dominanz Drehmoment 
-
-Dunce dunce docile for the loudness mastodon of the loud statehood and huddle. 
-
-ENACT EBBING ECHOING OF THE BUSHED DECAL FOR THE APACHE ANODE NEEDS. 
-
-Earthquake Endpunkte Edelmetall Economical Elektrizität  Ebingghaus Editorials Effektivität Eiffelturm Ehrenbürger 
-
-Enact enact eosin for the quench coed of the pique canoe and bleep. 
-
-FURLONG FEEDER FOCUS OF THE LIFER BEDFORD FOR THE SERIF PROOF BUFFER. 
-
-Funkturm Fahrräder Footlocker Fragmente Fingerfarben Fehlerquelle Fassaden Faithfully Folkloren Fabrikat Fraktionär 
-
-Furlong furlong focal for the genuflect profound of the motif aloof and offers. 
-
-GIGGLING GENDER GOSPEL OF THE PIGEON DOGCART FOR THE SPRING QUAHOG DIGGER. 
-
-Garderobe Golddigger Gneisenauer Grammatur Gibraltar Giggling Gelegenheit Guacamole Gargamel Gargoyles Gingerale Ghostbuster Gloriously
-
-Gnome gnome gondola for the impugn logos of the unplugged analog and giggling. 
-
-HUMAN HERALD HONORS OF THE DIHEDRAL MADHOUSE FOR THE PENHRIYADH BATHHOUSE. 
-
-Homeland Haftbefehle Humanistik Himmelbett Hubertus Heimatland Hinterwald Hopfenreich
-
-Human human hoist for the buddhist alcohol of the riyadh caliph and bathhouse. 
-
-INLET IBSEN ICEMAN OF THE APHID NORDIC FOR THE SUSHI SAUDI SHIITE. 
-
-Ionenstrahl Innenminister Identität Imperativ International  Idolistik Ikarus Instagram 
-
-Inlet inlet iodine inlet iodine for the quince champion of the ennui scampi and shiite. 
-
-JUSTIN JENNIES JOGGER OF THE TIJERA ADJOURN FOR THE ORANJ KOWBOJ HAJJIS.
-
-Johannesburg Jamaikaner Jahrmarkt Jinglemelodie Jamiroquai Journalist Juxtaposed Jurastudium Jubiläum Jenseits Jamming 
-
-Justin justin jocose for the djibouti sojourn of the oranj raj and hajjis. 
-
-KEEPER KOSHER OF THE SHRIKE BROKKOLI AKKORDEON MAROKKO AKKUSATIV BOOKCASE FOR THE SHEIK LOGBOOK CHUKKAS.
-
-Kommando Knollenform Kattamaran Kokain Krokketten Kleinkrimineller Kneipenchor Kimberly Kumpelhaft  Konstantin Kompliment Karawane Köpenik Kopernikus 
-
-Knoll knoll for the banknote lookout of the dybbuk outlook and trekked. Akkordeon Akklimatisieren Brokkoli Akkusativ Marokko
-
-LINDEN LENDER LOCKER OF THE CHILD GIGOLO FOR THE UNCOIL GAMBOL ENROLLED.
-
-Loading Laboratory Ladentheke Liebermann Leberalismus Lindenstraße Lokalität Legalität 
-
-Linden loading for the ulna monolog of the consul menthol and shallot.
-
-MILLINER MENACE MCCOY OF THE NIMBLE TOMCAT FOR THE DENIM RANDOM SUMMON.
-
-Modellbauer Millitärparade Marginalien Magnifying Milliardärin Modalität Manifest Magnetismus Millionärin 
-
-Milliner milliner modal for the alumna solomon of the album customize and summon. 
-
-NUMMERIERUNG NEBULA NOSHED OF THE INBRED BRONCO FOR THE COUSIN CARBON KENNEL. 
-
-Nanometer Niebelungen Nominierung Nordmann Niemand Neubauland Nightmares Nesseln
-
-Number number nodule for the unmade economic of the shotgun bison and tunnel. 
-
-ODDBALL ODDITY OBSESS OCEAN OF THE PHOBIC DOCKSIDE FOR THE GAUCHO LIBIDO HOODED. 
-
-Oanda Onlineshop Oderquelle Olivenbrot Ottonormal Operativ Oppenheimer Odenwald Oddities Onset 
-
-Oddball onset oddball for the abandon podium of the antiquo tempo and moonlit. 
-
-PNEUMATIK PENNIES PODIUM OF THE SNIPER OPCODE FOR THE SCRIP BISHOP HOPPER. 
-
-Pneumatik Polarisation Palantino Propaganda Pentagram Panamerica Pianistin Picadilly Polizeiauto
-
-Pneumo pneumo poncho for the dauphin opossum of the holdup bishop and supplies. 
-
-QANTAS AQUANAUT MARKQUART QUALITÄT QUANTA QOPHS OF THE INQUEST OQOS FOR THE CINQ COQ SUQQU. 
-
-Qantas Qualitäten Qophs Quadrillion Quälgeist quantas qophs for the inquest sheqel of the cinq scoq and suqqu. 
-
-REGENERIERUNG REDUZIERUNG KARRIERE PARTERRE REDUCE ROGUE OF THE GIRDLE ORCHID FOR THE MEMOIR SENSOR SORREL. 
-
-Radiologe Rhone Romanian Reduktion Romantiker Rimini Rundlauf Republican Roadrunner 
-
-Rhone rhone roman for the burnt porous of the lemur clamor and carrot. 
-
-SMISSING SENIOR SCONCE OF THE DISBAR GODSON FOR THE HUBRIS AMENDS LESSEN. 
-
-Salamander Snowboarder Sonderfall Sodium Systemsadmin Symptomatisch Sozialisierung Silhouette Sonderfall Subsets Santorini
-
-Snout snout sodium for the ensnare blossom of the genus pathos and missing. 
-
-TUNDRA TENDON TORQUE OF THE UNITED SCOTCH FOR THE NOUGHT FORGOT BITTERS. 
-
-Tagesblatt Tonalität Tinder Titelzeile Tundra Trottenheim Tocina  Tonträger Timberland Thomas 
-
-Tundra tundra tocsin for the nutmeg isotope of the peasant ingot and ottoman. 
-
-UNTERGRUND UNDER UGLINESS OF THE RHUBARB SEDUCE FOR THE MANCHU HINDU CONTINUUM. 
-
-Udderhold Uncles Unbekannt Uferland Uganda Ukkermark Ultimatum Upgrade Uhrheber Uniziale 
-
-Uncle uncle udder for the dunes cloud of the hindu thou and continuum. 
-
-VUNERABLE VERSED VOUCH OF THE DIVER OVOID FOR THE TELAVIV KARPOV FLIVVER. 
-
- Vibration Vattenfall Volksblatt Volkswagen Vunerable Vaterfigur Veredelung Vertikal Valenzia Venezianer Vocalismus 
-
-Vulcan vulcan vocal for the alluvial ovoid of the yugoslav chekhov and revved. 
-
-WINNER WENCH COWORKER OF THE UNWED SNOWCAP FOR THE ANDREW ESCROW GLOWWORM. 
-
-Womanhood Wanderlust Wahrheiten Weihwasser Weinberge Williamsburg Willkommen Wochenende Wuppertal
-
-Whale whale woman for the meanwhile bloout of the forepaw meadow and glowworm.
-
-XENON MAXIMAL XANTIPPE  XOCHITL OF THE MIXED BOXCAR FOR THE SUFFIX ICEBOX EXXON. 
-
-Xenon Xmas Xenophobic Xanthation  Xylophon Xylochrome
-
-Xmas  xmas xenon for the bauxite doxology of the tableaux equinox and exxon. 
-
-YUPPIES YEOMAN YONDER OF THE HYBRID ARROYO FOR THE DINGHY BRANDY SAYYID. 
-
- Youngster Yellowbird Yachtswomen Yawn Yipper Yorcker
-
-Yunnan yunnan young for the dynamo coyote of the obloquy employ and sayyid. 
-
-ZIMMER BUZZING ZEBRA ZOMBIE OF THE PRIZED OZONE FOR THE FRANZ ARROZ BUZZING.
-
-Zauberer Zollunion Zahlungen Zuckerwatte Zeitstrahl Zeremonie Zielgruppen Zeitgeist Zodiacs Zimmer Zeitzeugen Zirkulation
-
-Zloty zloty zodiac for the gizmo ozone of the franz laissez and buzzing.
-
-MAẞNAHMEN WEIẞWEIN FUẞBALLER STOẞMAẞE STRAẞENFEST
-
-Maßnahmen Weißwein Fußballer Stoßmaße Straßenfest Motzstraße
-
-Goodfight Abfließen Kampfjets Heimfjorde Aufkaufen Golfball Kaufhof
-",
-"HHH/Placeholder HHH
-OOO/Placeholder OOO
-000/Placeholder 000
-uuu/Placeholder nnn
-ooo/Placeholder ooo
-HHH/Placeholder HHH
-uuu/Placeholder nnn
-aaa/Placeholder aaa
-∞&04",
-"000102030405060708090
-101112131415161718191
-202122232425262728292
-303132333435363738393
-404142434445464748494
-505152535455565758595
-606162636465666768696
-707172737475767778797
-909192939495969798999
-
-
-
-
-
-
-
-
-
-
-
-Prop:
-01 Akkurat 02 Bumblebee 03 Calium 0 Darmstadt 
-05 Edelmetall 06 Füllfarbe 07 Ginger 08 Haftbefehl 
-09 Identität 10 Jojoba 11 Kleinkram 12 Linoleum
-13 Minimum 1 Nonnen 15 Ottonormal 16 Papier 
-17 Quoquitt 18 Roadrunner 19 System 20 Tarantula 
-21 Uruguay 22 Vivien 23 Westwood 2 Xentax 
-25 Ypsilony 26 Zeitzeugen 27 Stoßmaße 28 STOẞMAẞE 
-
-01 AKKURAT 02 BUMBLEBEE 03 CALCIUM 0 DARMSTADT 
-05 EDELMETALL 06 FÜLLFARBE 07 GINGER 08 HAFTBEFEHL 
-09 IDENTITÄT 10 JOJOBA 11 KLEINKRAM 12 LINOLEUM
-13 MINIMUM 1 NONNEN 15 OTTONORMAL 16 PAPIER 
-17 QUOQUITT 18 ROADRUNNER 19 SYSTEM 20 TARANTULA 
-21 URUGUAY 22 VIVIEN 23 WESTWOOD 2 XENTAX 
-25 YPSILONY 26 ZEITZEUGEN 27 STOSSMASSE 28 STOẞMAẞE
-
-
-Tnum:
- Akkurat  Bumblebee  Calium  Darmstadt 
- Edelmetall  Füllfarbe  Ginger  Haftbefehl 
- Identität  Jojoba  Kleinkram  Linoleum
- Minimum  Nonnen  Ottonormal  Papier 
- Quoquitt  Roadrunner  System  Tarantula 
- Uruguay  Vivien  Westwood  Xentax 
- Ypsilony  Zeitzeugen  Stoßmaße  STOẞMAẞE 
-
- AKKURAT  BUMBLEBEE  CALCIUM  DARMSTADT 
- EDELMETALL  FÜLLFARBE  GINGER  HAFTBEFEHL 
- IDENTITÄT  JOJOBA  KLEINKRAM  LINOLEUM
- MINIMUM  NONNEN  OTTONORMAL  PAPIER 
- QUOQUITT  ROADRUNNER  SYSTEM  TARANTULA 
- URUGUAY  VIVIEN  WESTWOOD  XENTAX 
- YPSILONY  ZEITZEUGEN  STOSSMASSE  STOẞMAẞE",
-"HOnot 
-ABCDEFGHIJKLM
-NOPQRSTUVWXYZ
-naobcdefghijklmn
-nopqrstuvwxvyz
-01234567869.,
-
-Minimum 
-RETINAS retinas
-
-No Components:
-AÆEBCGƏDEFGHĦIJKLAMNŊJOØDŒEÐPÞRSUẞ/.notdef TUŲAVWXYZ
-alæebhcdoðeęfghıiȷjklmnŋȷoøoœebpþqrnsßtuvwxyz
-
-0123456789
-0¢0¤0$0€0lƒ€₺0₽$€H₹0£0€0¥¢00$40d₫€0  
-¢¤$₫€₺₽₹£¥
-n∞n0+0¬∫Ω 0∆2∏02H∑2√/two.numr 2o26∂2uµd@Hnal&nH¶S§2c©R®/.notdef P℗Hª  HH™2°⌀|¦*†3ℓ‡№5℮/.notdef 2%‰ -–—_({[‹Hn«Hn
-.,!2?*#({[i.,‚„“H”‘’-«Hn»‹›‘3\"'‘0\"0'/guillemetleft.case H/guillemetright.case/guilsinglleft.case/guilsinglright.case 
-
-Diacritics:
-aäiáí ìőâăåãāģtťąçċdď  lľ đ ħ /slashshortcomb.case Ł̷ł tŧ 
-̈̇̀́̋̂̌̆̊̃̄,̦̒ /caroncomb.alt/caroncomb.alt.tcaron ̧̨
-/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case/tildecomb.case/macroncomb.case 
-ÄİÀÌÁÍŐÂĂÅǍÃĀAĄCČÇĊD ÐĞĢHĦLĽLŁŐÐŦ
-̵đ ħŧ̷lł  ̸ø  /strokeshortcomb.case Ð ĐŦ /slashshortcomb.case Ł /slashlongcomb.case Ø
-
-Last Check:
-AÁĂǍÂÄÀĀAĄÅÃEÆǼBCĆČĈÇĊƏODÐĎĐEÉĚÊËĔĖÈĒĘFGĞĜĢĠHĦĤIÍ Î Ĭ Ï İ ÌĪĮJĴ
-KĶLĹĽ Ļ ŁĿMNŃŇŅNŊJ/Jacute ĴNÑOÓÔÖÒŐŌØǾÕDŒPÞQRŔŘŖSŚŜŠŞȘẞTŦŤTŢȚ
-UÚÛÜÙŬŰŪŲŮVWẂŴẄẀXYÝŶŸỲZŹŽŻ
-aæeáăǎâäàāąåãaæeǽeəbcćĉčçċdoðď đ ħeéěĕêëėèēęfgğĝģiġhħhĥiıí î ï ĭ /idotaccent  ì ī į j ȷ ĵ kķlĺŀ ľ  ļł
-mnńňņŋjñoóôöòŏǒőōøǿõoœepþqrŕřŗsaśšŝşșßtŧť ţțuúûŭüùűūuųů
-vwẃŵẅẁxyýŷÿỳzźžżẞ
-
-/f_i  Ab/f_i ndung
-/f_j  Heim/f_j ord
-/f_l  /f_f  Au/f_l au/f_f orm
-H2ªº
-0123456789
-H/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom H₀₁₂₃₄₅₆₇₈₉H/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr H⁰¹²³⁴⁵⁶⁷⁸⁹
-
-100%‰ ⁄ H₂On 
-H /one.numr ⁄/two.dnom   /one.numr ⁄/four.dnom  /one.numr ⁄/five.dnom  /one.numr ⁄/six.dnom  /one.numr ⁄/eight.dnom  /two.numr ⁄/three.dnom  /three.numr ⁄/four.dnom  /four.numr ⁄/five.dnom  /five.numr ⁄/six.dnom  /one.numr ⁄/eight.dnom  /three.numr ⁄/eight.dnom  /five.numr ⁄/eight.dnom  /seven.numr ⁄/eight.dnom     
-⁄ H ½ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅝ ⅞ 
-.,:;…H!¡H?¿Hn-·•*H#/exclamdown.case/questiondown.case n/hyphen.case/periodcentered.case/bullet.case//Hn/backslash (Hn){Hn}[Hn]/slash.case HO/backslash.case/parenleft.case HO/parenright.case/braceleft.case HO/braceright.case/bracketleft.case HO/bracketright.case -–—_/hyphen.case/endash.case/emdash.case ,‚„“H”‘’-«Hn»‹›‘3\"'‘0\"0'/guillemetleft.case H/guillemetright.case/guilsinglleft.case/guilsinglright.case/.notdef 
-LOCL CAT: Paral/periodcentered.loclCAT lel ŀ /periodcentered.loclCAT PARAL/periodcentered.loclCAT.case LEL Ŀ /periodcentered.loclCAT.case 
-¢¤$€ƒ₺₹£¥₽₫
-0123456789 
-
-02+2−2¬2×2÷2=2≠2>2<2≥2≤2±2=2≈2~2^%‰
-+−¬×÷=≠><≥≤±≈~^
-2∑2¬∞∫OΩ2∆∏√/two.numr o6∂µ⌀2ℓaΩ
-H@&¶§2c©R®P℗ Hn™2°//(|¦*†‡№2H℮/at.case/slash.case/bar.case/brokenbar.case H
-
-Traps
-BGRaæbdęghmnŋpþqrßu69@/at.case ₫Ω∂µ
-
-↑↗→↘↓↙←↖/.notdef 
-●○◐◖◆◇0◊▮■□◧▲▶▼◀△▷▽◁▴▸▾◂★♥✓✕
-
-All glyphs:
-AÁĂǍÂÄÀĀĄÅÃÆǼBCĆČÇĈĊDĎ Đ ÐEÉĔĚÊËĖÈĒĘẼƏFGĞĜĢĠHĦĤIÍ Ĭ Î Ï İ Ì Ī Į ĨJ/Jacute ĴKĶLĹĽĻĿ ŁMNŃŇŅÑŊOÓŎǑÔÖÒŐŌØǾÕŒPÞQ
-RŔŘŖSŚŠŞŜȘẞTŦŤŢȚUÚŬÛÜÙŰŪŲŮŨVWẂŴẄẀXYÝŶŸỲỸZŹŽŻ
-aáăǎâäàāąåãæǽbcćčçĉċdďđðeéĕěêëėèēęẽəfgğĝģġhħĥiıí ĭ î ï /idotaccent  ì ī į ĩ jȷ/jacute  ĵ kķlĺľ ļŀ  łmnńňņñŋjoóŏǒôöòőōøǿõœpþq
-rŕřŗsśšşŝșßtŧťţțuúŭûüùűūųůũvwẃŵẅẁxyýŷÿỳỹzźžż/germandbls.calt  /f_f  /f_i  /f_j  /f_l  ªº
-0123456789
-/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr ₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹
-⁄ H ½ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞
-.,:;…!¡?¿·•*#///backslash/exclamdown.case/questiondown.case/periodcentered.case/bullet.case/slash.case/backslash.case/periodcentered.loclCAT  /periodcentered.loclCAT.case Hn-Hn­–Hn—_/hyphen.case H/endash.case H/emdash.case 
-(Hn){Hn}[Hn]/parenleft.case H/parenright.case/braceleft.case H/braceright.case/bracketleft.case H/bracketright.case 
-‚„Hn“Hn”‘Hn’«Hn»‹Hn›\"'‘/guillemetleft.case H/guillemetright.case/guilsinglleft.case H/guilsinglright.case 
-ƒ★♥♿✓✕@&¶§©®℗™°⌀|¦†ℓ‡℮№/at.case/bar.case/brokenbar.case 
-¢¤$₫€₺₽₹£¥
-+−×÷=≠><≥≤±≈~¬^
-∞π∫Ω∆∏∑√∂µ%‰
-↑↗→↘↓↙←↖●○◐◖◌◆◇◊▮■□◧▲▶▼◀△▷▽◁▴▸▾◂
-̈̇̀́̋/caroncomb.alt ̵̷̸̧̨̦̂̌̆̊̃̄̒/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/strokeshortcomb.case/slashshortcomb.case/slashlongcomb.case/caroncomb.alt.tcaron ¨˙`´˝ˆˇ˘˚˜¯¸˛
-
-
-Kritische Zeichen: 
-œæÐĦŁ Ø Ŧ đ ħłøŧ
-.:;…!?·÷
-,;‚„H‘
-
-
-
-Zeichen mit Komp+Pfad flatten
-Unnötige Anker entfernen (Filter Hat Anker)
-Nested Components checken (Component Problem Finder)
-Unaligned Components checken (Component Problem Finder)
-Alle Cy und Gr Basizeichen keine Komponenten?!
-Copyright Info updaten
-SUSE Vergleich
-Hinting Werte überprüfen Hne
-Generierte Zeichen neu generieren (.tf, dnom, etc.) und auf Buchstabenbreiten achten
-Bestehenden Ligaturen checken (passen die Abstände noch im Wortbild)
-Fractions überprüfen
-weightClass Thin 250, ExtraLight 275, Light 300
-Fontinfo, Version, Copyright, Datum aktualisieren
-
-Skripte laufen lassen: 
-Interpolation: Kink Finder, Find Shapeshifters, New Tab with dangerous Glyphs for interpolation, 
-Component: Component Problem Finder (Nested Components finden)
-Paths: Find near Vertical Misses, Path Problem Finder
-
-Bei Font Bakery testen
-
-
-̈äëïöüẅÿ/.notdef 
-/dieresiscomb.case ÄËÏÖÜẄŸ
-̇ċėġi/idotaccent įjż
-/dotaccentcomb.case ĊĖĠİŻ
-̀àèìòùẁỳ/.notdef `
-/gravecomb.case ÀÈÌÒÙẀỲ
-́áćéíńóŕśúẃýź/.notdef 
-/acutecomb.case ÁĆÉÍĹŃÓŔŚÚẂÝŹĺ
-̋őű/.notdef 
-/hungarumlautcomb.case ŐŰ
-̂âêîôûŵŷ/.notdef ˆ
-/circumflexcomb.case ÂÊÎÔÛŴŶ
-̌čěňřšž̂ˇ
-/caroncomb.case ǍČĎĚŇŘŠŤŽ
-̆ăğ/.notdef ˘
-/brevecomb.case ĂĞ
-̊åů/.notdef ˚
-/ringcomb.case ÅŮ
-̃ãñõ/.notdef ˜
-/tildecomb.case ÃÑÕ
-̄āēīōū/.notdef ¯
-/macroncomb.case ĀĒĪŌŪ
-̧CÇŞŢçşţ/.notdef ¸
-̨ĄĘIĮUŲąęįuų/.notdef 
-.,̦̒ģ
-̦ĢĶĻŅŖȘȚķļņŗșț
-/caroncomb.alt Ľďľ tťť/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef 
-/.notdef  /.notdef   /.notdef   /.notdef   /.notdef   /.notdef   /.notdef   /.notdef  
-/.notdef   /.notdef   /.notdef 
-/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef 
-/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef 
-/.notdef o/.notdef/.notdef 
-/.notdef/.notdef/.notdef",
-"/uniF8EE 
-HOnot 
-AÄBCDEFGHIJKLMN
-OÖPQRSTUÜVWXYZ
-aäbcdefghijklmn
-noöpqrstuüvwxyz.,
-0123456789
-
-
-
-01 Strichpunkt 02 Passionate 03 Curious  
-04 Transform 05 Meaningful 06 Journey
-07 Open 08 Responsible 09 Design 10 True
-11 Distinctive 12 Zeitgeist 13 Technology
-14 Identity 15 Qualität 16 Impact 17 Brand  
-
-01 STRICHPUNKT 02 PASSIONATE  03 CURIOUS 
-04 TRANSFORM  05 MEANINGFUL 06 JOURNEY
-07 OPEN 08 RESPONSIBLE 09 DESIGN 10 TRUE 
-11 DISTINCTIVE 12 ZEITGEIST 13 TECHNOLOGY
-14 IDENTITY 15 QUALITÄT 16 IMPACT 17 BRAND 
- 
-Akkurat Bumblebee Calcium Darmstadt 
-Edelmetall Füllfarbe Ginger Haftbefehl 
-Identität Jojoba Kleinkram Linoleum
-Minimum Nonnen Ottonormal Papier 
-Quoquitt Roadrunner System Tarantula 
-Uruguay Vivien Westwood Xentax 
-Ypsilony Zeitzeugen Stoßmaße STOẞMAẞE 
-
-AKKURAT BUMBLEBEE CALCIUM DARMSTADT 
-EDELMETALL FÜLLFARBE GINGER HAFTBEFEHL 
-IDENTITÄT JOJOBA KLEINKRAM LINOLEUM
-MINIMUM NONNEN OTTONORMAL PAPIER 
-QUANTENQUOTE ROADRUNNER SYSTEM TARANTULA 
-URUGUAY VIVIEN WESTWOOD XENTAX SYMPHONY 
-YPSILONY ZEITZEUGEN STOSSMASSE STOẞMAẞE
-
-
-01 Akkurat 02 Bumblebee 03 Calcium 04 Darmstadt 
-05 Edelmetall 06 Füllfarbe 07 Ginger 08 Haftbefehl 
-09 Identität 10 Jojoba 11 Kleinkram 12 Linoleum
-13 Minimum 14 Nonnen 15 Ottonormal 16 Papier 
-17 Quoquitt 18 Roadrunner 19 System 20 Tarantula 
-21 Uruguay 22 Vivien 23 Westwood 24 Xentax 
-25 Ypsilony 26 Zeitzeugen 27 Stoßmaße 28 STOẞMAẞE 
-
-01 AKKURAT 02 BUMBLEBEE 03 CALCIUM 04 DARMSTADT 
-05 EDELMETALL 06 FÜLLFARBE 07 GINGER 08 HAFTBEFEHL 
-09 IDENTITÄT 10 JOJOBA 11 KLEINKRAM 12 LINOLEUM
-13 MINIMUM 14 NONNEN 15 OTTONORMAL 16 PAPIER 
-17 QUOQUITT 18 ROADRUNNER 19 SYSTEM 20 TARANTULA 
-21 URUGUAY 22 VIVIEN 23 WESTWOOD 24 XENTAX 
-25 YPSILONY 26 ZEITZEUGEN 27 STOSSMASSE 28 STOẞMAẞE "
+"båå",
+"­"
 );
 axes = (
 {
-name = Width;
-tag = wdth;
-},
-{
 name = Weight;
 tag = wght;
+},
+{
+name = Width;
+tag = wdth;
 }
 );
 classes = (
@@ -519,9 +83,41 @@ name = "Use Extension Kerning";
 value = 1;
 },
 {
-disabled = 1;
-name = "Get Hints From Master";
-value = "936587BF-088D-4F2D-A787-D302E778354F";
+name = "Use Line Breaks";
+value = 1;
+},
+{
+name = "Use Extension Kerning";
+value = 1;
+},
+{
+name = "meta Table";
+value = (
+{
+data = "latin, latin-ext";
+tag = dlng;
+},
+{
+data = "latin, latin-ext";
+tag = slng;
+}
+);
+},
+{
+name = blueScale;
+value = 0.04796;
+},
+{
+name = "TrueType Curve Error";
+value = 0.3;
+},
+{
+name = TTFMinimumDistance;
+value = 0.5;
+},
+{
+name = TTFBlueFuzz;
+value = 2;
 }
 );
 date = "2026-01-26 15:01:20 +0000";
@@ -594,6 +190,7 @@ code = "lookup ccmp_DFLT_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
+	sub iogonek' @CombiningTopAccents by iogonek.dotless;
 	sub j' @CombiningTopAccents by jdotless;
 } ccmp_DFLT_1;
 
@@ -797,20 +394,20 @@ tag = dlig;
 fontMaster = (
 {
 axesValues = (
-100,
-400
+400,
+100
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 100;
-},
-{
 Axis = Weight;
 Location = 400;
+},
+{
+Axis = Width;
+Location = 100;
 }
 );
 },
@@ -916,20 +513,20 @@ GSCornerRadius = 40;
 },
 {
 axesValues = (
-100,
-900
+900,
+100
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 100;
-},
-{
 Axis = Weight;
 Location = 900;
+},
+{
+Axis = Width;
+Location = 100;
 }
 );
 },
@@ -1035,20 +632,20 @@ GSCornerRadius = 50;
 },
 {
 axesValues = (
-200,
-400
+400,
+200
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 200;
-},
-{
 Axis = Weight;
 Location = 400;
+},
+{
+Axis = Width;
+Location = 200;
 }
 );
 },
@@ -1148,20 +745,20 @@ GSCornerRadius = 60;
 },
 {
 axesValues = (
-200,
-900
+900,
+200
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 200;
-},
-{
 Axis = Weight;
 Location = 900;
+},
+{
+Axis = Width;
+Location = 200;
 }
 );
 },
@@ -13060,7 +12657,7 @@ unicode = 379;
 glyphname = a;
 kernLeft = a;
 kernRight = a;
-lastChange = "2026-01-23 20:50:18 +0000";
+lastChange = "2026-02-20 20:16:54 +0000";
 layers = (
 {
 anchors = (
@@ -13121,8 +12718,8 @@ nodes = (
 (343,219,cs),
 (482,235,l),
 (482,331,l),
-(246,310,ls),
-(84,295,o),
+(244,310,ls),
+(84,296,o),
 (10,238,o),
 (10,145,cs),
 (10,49,o),
@@ -13189,7 +12786,7 @@ nodes = (
 (136,136,cs),
 (136,182,o),
 (165,220,o),
-(282,232,cs),
+(281,232,cs),
 (532,259,l),
 (532,322,l),
 (276,297,ls),
@@ -14365,7 +13962,7 @@ unicode = 509;
 glyphname = b;
 kernLeft = h;
 kernRight = b;
-lastChange = "2026-01-23 20:50:18 +0000";
+lastChange = "2026-02-20 20:25:16 +0000";
 layers = (
 {
 layerId = "5EDB8360-C867-4183-822A-D387B21AE085";
@@ -16378,9 +15975,15 @@ unicode = 275;
 glyphname = eogonek;
 kernLeft = o;
 kernRight = e;
-lastChange = "2026-01-23 20:50:18 +0000";
+lastChange = "2026-02-20 19:53:18 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (377,525);
+}
+);
 layerId = "5EDB8360-C867-4183-822A-D387B21AE085";
 shapes = (
 {
@@ -16434,6 +16037,12 @@ nodes = (
 width = 753;
 },
 {
+anchors = (
+{
+name = top;
+pos = (360,511);
+}
+);
 layerId = "420CDBF3-1EA9-4A60-A2C9-262C353BE567";
 shapes = (
 {
@@ -16487,6 +16096,12 @@ nodes = (
 width = 720;
 },
 {
+anchors = (
+{
+name = top;
+pos = (271,510);
+}
+);
 layerId = "49EC3AAF-00BE-4B7E-9333-53C2424A5618";
 shapes = (
 {
@@ -16540,6 +16155,12 @@ nodes = (
 width = 542;
 },
 {
+anchors = (
+{
+name = top;
+pos = (294,521);
+}
+);
 layerId = "936587BF-088D-4F2D-A787-D302E778354F";
 shapes = (
 {
@@ -19552,9 +19173,19 @@ unicode = 322;
 glyphname = m;
 kernLeft = n;
 kernRight = n;
-lastChange = "2026-01-23 20:50:18 +0000";
+lastChange = "2026-02-20 19:57:38 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (580,0);
+},
+{
+name = top;
+pos = (580,525);
+}
+);
 background = {
 shapes = (
 {
@@ -19633,6 +19264,16 @@ nodes = (
 width = 1157;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (572,0);
+},
+{
+name = top;
+pos = (572,511);
+}
+);
 background = {
 shapes = (
 {
@@ -19711,6 +19352,16 @@ nodes = (
 width = 1137;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (454,0);
+},
+{
+name = top;
+pos = (454,510);
+}
+);
 background = {
 shapes = (
 {
@@ -19789,6 +19440,16 @@ nodes = (
 width = 902;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (461,0);
+},
+{
+name = top;
+pos = (461,521);
+}
+);
 layerId = "936587BF-088D-4F2D-A787-D302E778354F";
 shapes = (
 {
@@ -25966,6 +25627,67 @@ ref = Germandbls;
 }
 );
 width = 728;
+}
+);
+},
+{
+color = 9;
+glyphname = iogonek.dotless;
+kernLeft = i;
+kernRight = i;
+lastChange = "2026-02-20 19:48:04 +0000";
+layers = (
+{
+layerId = "5EDB8360-C867-4183-822A-D387B21AE085";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-124,0);
+ref = ogonekcomb;
+}
+);
+width = 308;
+},
+{
+layerId = "420CDBF3-1EA9-4A60-A2C9-262C353BE567";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-228,0);
+ref = ogonekcomb;
+}
+);
+width = 247;
+},
+{
+layerId = "49EC3AAF-00BE-4B7E-9333-53C2424A5618";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-206,0);
+ref = ogonekcomb;
+}
+);
+width = 245;
+},
+{
+layerId = "936587BF-088D-4F2D-A787-D302E778354F";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-131,0);
+ref = ogonekcomb;
+}
+);
+width = 279;
 }
 );
 },
@@ -39427,29 +39149,6 @@ width = 164;
 }
 );
 unicode = 160;
-},
-{
-glyphname = figurespace;
-lastChange = "2026-01-23 20:44:01 +0000";
-layers = (
-{
-layerId = "5EDB8360-C867-4183-822A-D387B21AE085";
-width = 823;
-},
-{
-layerId = "420CDBF3-1EA9-4A60-A2C9-262C353BE567";
-width = 846;
-},
-{
-layerId = "49EC3AAF-00BE-4B7E-9333-53C2424A5618";
-width = 631;
-},
-{
-layerId = "936587BF-088D-4F2D-A787-D302E778354F";
-width = 617;
-}
-);
-unicode = 8199;
 },
 {
 glyphname = punctuationspace;
@@ -59278,7 +58977,7 @@ unicode = 774;
 },
 {
 glyphname = ringcomb;
-lastChange = "2026-01-23 20:44:01 +0000";
+lastChange = "2026-02-20 20:17:27 +0000";
 layers = (
 {
 anchors = (
@@ -59469,7 +59168,7 @@ unicode = 778;
 },
 {
 glyphname = tildecomb;
-lastChange = "2026-01-23 20:44:01 +0000";
+lastChange = "2026-02-20 20:00:14 +0000";
 layers = (
 {
 anchors = (
@@ -63582,20 +63281,20 @@ width = 1635;
 instances = (
 {
 axesValues = (
-100,
-400
+400,
+100
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 100;
-},
-{
 Axis = Weight;
 Location = 400;
+},
+{
+Axis = Width;
+Location = 100;
 }
 );
 }
@@ -63610,7 +63309,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -63618,20 +63317,20 @@ value = "Strichpunkt Sans 20260126";
 },
 {
 axesValues = (
-100,
-500
+500,
+100
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 100;
-},
-{
 Axis = Weight;
 Location = 500;
+},
+{
+Axis = Width;
+Location = 100;
 }
 );
 }
@@ -63647,7 +63346,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -63656,20 +63355,20 @@ weightClass = 500;
 },
 {
 axesValues = (
-100,
-600
+600,
+100
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 100;
-},
-{
 Axis = Weight;
 Location = 600;
+},
+{
+Axis = Width;
+Location = 100;
 }
 );
 }
@@ -63685,7 +63384,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -63694,20 +63393,20 @@ weightClass = 600;
 },
 {
 axesValues = (
-100,
-700
+700,
+100
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 100;
-},
-{
 Axis = Weight;
 Location = 700;
+},
+{
+Axis = Width;
+Location = 100;
 }
 );
 }
@@ -63725,7 +63424,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -63734,20 +63433,20 @@ weightClass = 700;
 },
 {
 axesValues = (
-100,
-800
+800,
+100
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 100;
-},
-{
 Axis = Weight;
 Location = 800;
+},
+{
+Axis = Width;
+Location = 100;
 }
 );
 }
@@ -63763,7 +63462,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -63772,20 +63471,20 @@ weightClass = 800;
 },
 {
 axesValues = (
-100,
-900
+900,
+100
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 100;
-},
-{
 Axis = Weight;
 Location = 900;
+},
+{
+Axis = Width;
+Location = 100;
 }
 );
 }
@@ -63800,7 +63499,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -63809,20 +63508,20 @@ weightClass = 900;
 },
 {
 axesValues = (
-150,
-400
+400,
+150
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 150;
-},
-{
 Axis = Weight;
 Location = 400;
+},
+{
+Axis = Width;
+Location = 150;
 }
 );
 }
@@ -63838,7 +63537,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -63847,20 +63546,20 @@ widthClass = 7;
 },
 {
 axesValues = (
-150,
-500
+500,
+150
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 150;
-},
-{
 Axis = Weight;
 Location = 500;
+},
+{
+Axis = Width;
+Location = 150;
 }
 );
 }
@@ -63878,7 +63577,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -63888,20 +63587,20 @@ widthClass = 7;
 },
 {
 axesValues = (
-150,
-600
+600,
+150
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 150;
-},
-{
 Axis = Weight;
 Location = 600;
+},
+{
+Axis = Width;
+Location = 150;
 }
 );
 }
@@ -63919,7 +63618,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -63929,20 +63628,20 @@ widthClass = 7;
 },
 {
 axesValues = (
-150,
-700
+700,
+150
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 150;
-},
-{
 Axis = Weight;
 Location = 700;
+},
+{
+Axis = Width;
+Location = 150;
 }
 );
 }
@@ -63962,7 +63661,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -63972,20 +63671,20 @@ widthClass = 7;
 },
 {
 axesValues = (
-150,
-800
+800,
+150
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 150;
-},
-{
 Axis = Weight;
 Location = 800;
+},
+{
+Axis = Width;
+Location = 150;
 }
 );
 }
@@ -64003,7 +63702,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -64013,20 +63712,20 @@ widthClass = 7;
 },
 {
 axesValues = (
-150,
-900
+900,
+150
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 150;
-},
-{
 Axis = Weight;
 Location = 900;
+},
+{
+Axis = Width;
+Location = 150;
 }
 );
 }
@@ -64042,7 +63741,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -64052,20 +63751,20 @@ widthClass = 7;
 },
 {
 axesValues = (
-200,
-400
+400,
+200
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 200;
-},
-{
 Axis = Weight;
 Location = 400;
+},
+{
+Axis = Width;
+Location = 200;
 }
 );
 }
@@ -64080,7 +63779,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -64089,20 +63788,20 @@ widthClass = 9;
 },
 {
 axesValues = (
-200,
-500
+500,
+200
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 200;
-},
-{
 Axis = Weight;
 Location = 500;
+},
+{
+Axis = Width;
+Location = 200;
 }
 );
 }
@@ -64118,7 +63817,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -64128,20 +63827,20 @@ widthClass = 9;
 },
 {
 axesValues = (
-200,
-600
+600,
+200
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 200;
-},
-{
 Axis = Weight;
 Location = 600;
+},
+{
+Axis = Width;
+Location = 200;
 }
 );
 }
@@ -64157,7 +63856,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -64167,20 +63866,20 @@ widthClass = 9;
 },
 {
 axesValues = (
-200,
-700
+700,
+200
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 200;
-},
-{
 Axis = Weight;
 Location = 700;
+},
+{
+Axis = Width;
+Location = 200;
 }
 );
 }
@@ -64198,7 +63897,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -64208,20 +63907,20 @@ widthClass = 9;
 },
 {
 axesValues = (
-200,
-800
+800,
+200
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 200;
-},
-{
 Axis = Weight;
 Location = 800;
+},
+{
+Axis = Width;
+Location = 200;
 }
 );
 }
@@ -64237,7 +63936,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -64247,20 +63946,20 @@ widthClass = 9;
 },
 {
 axesValues = (
-200,
-900
+900,
+200
 );
 customParameters = (
 {
 name = "Axis Location";
 value = (
 {
-Axis = Width;
-Location = 200;
-},
-{
 Axis = Weight;
 Location = 900;
+},
+{
+Axis = Width;
+Location = 200;
 }
 );
 }
@@ -64275,7 +63974,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans 20260126";
+value = "Strichpunkt Sans";
 }
 );
 }
@@ -64290,16 +63989,17 @@ name = "Variable Font Origin";
 value = "49EC3AAF-00BE-4B7E-9333-53C2424A5618";
 },
 {
+disabled = 1;
 name = fileName;
-value = StrichpunktSansVF20260126;
-},
-{
-name = "Axis Values";
-value = "wdth; 100.0=Normal*, 150.0=Wide, 200.0=Extended";
+value = StrichpunktSansVF;
 },
 {
 name = "Axis Values";
 value = "wght; 400.0>700.0=Regular*, 500.0=Medium, 600.0=SemiBold, 700.0=Bold, 800.0=ExtraBold, 900.0=Black";
+},
+{
+name = "Axis Values";
+value = "wdth; 100.0=Normal*, 150.0=Wide, 200.0=Extended";
 },
 {
 name = "Axis Values";
@@ -64313,13 +64013,13 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Strichpunkt Sans VF 20260126";
+value = "Strichpunkt Sans VF";
 }
 );
 },
 {
 key = variationsPostScriptNamePrefix;
-value = StrichpunktSansVF20260126;
+value = StrichpunktSansVF;
 }
 );
 type = variable;
@@ -80980,7 +80680,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2026 by Strichpunkt. All rights reserved.";
+value = "Copyright 2026 The Strichpunkt Sans Project Authors (https://github.com/strichpunkt-design/Strichpunkt_Sans)";
 }
 );
 },
@@ -80996,6 +80696,19 @@ value = "Rene Bieder";
 {
 key = designerURL;
 value = "https://www.renebieder.com";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: openfontlicense.org";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
@@ -81025,7 +80738,7 @@ value = RENE;
 },
 {
 key = versionString;
-value = "Version %d.%03d";
+value = "Version 1.000";
 }
 );
 settings = {

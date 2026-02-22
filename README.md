@@ -31,13 +31,16 @@ Releasing the typeface as an open-source Google font family reflects a shared co
 ## About
 
 **Strichpunkt** is one of the leading design and branding agencies in the German-speaking world. Founded in 1996, the identity and experience specialists work from Stuttgart, Berlin, Hamburg, and Basel (Switzerland) for renowned international clients across all industries and sectors.
-strichpunkt.design instagram.com/strichpunktdesign
+
+[sp.design](https://www.strichpunkt-design.de/de) 
+/ [instagram.com/strichpunktdesign](https://www.instagram.com/strichpunktdesign)
 
 
 ## Credits
 
 **René Bieder** is a trained Graphic designer, Art Director, and self-taught type designer. Before setting up his own studio as a type designer in 2012, he was employed in various small and large advertising agencies. Today, you can find his retail typefaces all around the world. From the Nemo Science Museum in Amsterdam to the University of Florida. Next to his retail releases, Bieder has worked with various national and international clients, such as industry giants such as Volkswagen, to create impactful custom brand fonts.
-renebieder.com instagram.com/studio.renebieder
+
+[renebieder.com](https://www.renebieder.com/) / [instagram.com/studio.renebieder](https://www.instagram.com/studio.renebieder)
 
 
 ## Building
@@ -51,10 +54,6 @@ If you want to build fonts manually on your own computer:
 * `make proof` will generate HTML proof files.
 
 The proof files and QA tests are also available automatically via GitHub Actions - look at `https://github.com/SUSE/suse-font`.
-
-**Build notes**
-
-- Variable fonts remain canonical (400–900).  
 
 
 ## Changelog
