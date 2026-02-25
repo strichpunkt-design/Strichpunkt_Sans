@@ -61,7 +61,10 @@ jobs:
       run: make test
       continue-on-error: true
     - name: Generate proofs
-      run: make proof
+      run: |
+        . venv/bin/activate
+        python -m pip install -U pip setuptools wheel
+        make proof
     - name: Set up test result site
       run: cp scripts/index.html out/index.html
     - name: Collect deployment assets
