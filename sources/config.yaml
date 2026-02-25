@@ -16,12 +16,11 @@ recipe:
       exe: gftools
       args: 'fix-nonhinting ../fonts/variable/StrichpunktSans[wdth,wght].ttf ../fonts/variable/StrichpunktSans[wdth,wght].ttf --no-backup'
 
-  # 2) True wght-only VFs: subspace pins width, then stat-1axis. Sans[wght] updates names; Wide/Exp omit --update-name-table (no args) so default = Regular.
+  # 2) True wght-only VFs: subspace pins width, then stat-1axis. No subspace args (avoid STAT requirement).
   ../fonts/variable/StrichpunktSans[wght].ttf:
     - source: ../fonts/variable/StrichpunktSans[wdth,wght].ttf
     - operation: subspace
       axes: wdth=100
-      args: --update-name-table
     - operation: rename
       name: Strichpunkt Sans
     - operation: fix
