@@ -10,45 +10,43 @@ recipe:
   # 1) Full VF (wght + wdth): add STAT + fix-nonhinting
   ../fonts/variable/StrichpunktSans[wdth,wght].ttf:
     - postprocess: exec
-      exe: gftools
-      args: 'gen-stat ../fonts/variable/StrichpunktSans[wdth,wght].ttf --src sources/stat.yaml --inplace'
+      exe: bash
+      args: '-lc ''SRC="$$(git rev-parse --show-toplevel)/sources/stat.yaml"; gftools gen-stat ../fonts/variable/StrichpunktSans[wdth,wght].ttf --src "$$SRC" --inplace'''
     - postprocess: exec
       exe: gftools
       args: 'fix-nonhinting ../fonts/variable/StrichpunktSans[wdth,wght].ttf ../fonts/variable/StrichpunktSans[wdth,wght].ttf --no-backup'
 
-  # 2) True wght-only VFs: subspace pins width, DO NOT update name table, then stat-1axis
+  # 2) True wght-only VFs: subspace pins width, then stat-1axis. Sans[wght] updates names; Wide/Exp omit --update-name-table (no args) so default = Regular.
   ../fonts/variable/StrichpunktSans[wght].ttf:
     - source: ../fonts/variable/StrichpunktSans[wdth,wght].ttf
     - operation: subspace
       axes: wdth=100
-      args: --no-update-name-table
+      args: --update-name-table
     - operation: rename
       name: Strichpunkt Sans
     - operation: fix
     - postprocess: exec
-      exe: gftools
-      args: 'gen-stat ../fonts/variable/StrichpunktSans[wght].ttf --src sources/stat-1axis.yaml --inplace'
+      exe: bash
+      args: '-lc ''SRC="$$(git rev-parse --show-toplevel)/sources/stat-1axis.yaml"; gftools gen-stat ../fonts/variable/StrichpunktSans[wght].ttf --src "$$SRC" --inplace'''
 
   ../fonts/variable/StrichpunktSansWide[wght].ttf:
     - source: ../fonts/variable/StrichpunktSans[wdth,wght].ttf
     - operation: subspace
       axes: wdth=150
-      args: --no-update-name-table
     - operation: rename
       name: Strichpunkt Sans Wide
     - operation: fix
     - postprocess: exec
-      exe: gftools
-      args: 'gen-stat ../fonts/variable/StrichpunktSansWide[wght].ttf --src sources/stat-1axis.yaml --inplace'
+      exe: bash
+      args: '-lc ''SRC="$$(git rev-parse --show-toplevel)/sources/stat-1axis.yaml"; gftools gen-stat ../fonts/variable/StrichpunktSansWide[wght].ttf --src "$$SRC" --inplace'''
 
   ../fonts/variable/StrichpunktSansExp[wght].ttf:
     - source: ../fonts/variable/StrichpunktSans[wdth,wght].ttf
     - operation: subspace
       axes: wdth=200
-      args: --no-update-name-table
     - operation: rename
       name: Strichpunkt Sans Exp
     - operation: fix
     - postprocess: exec
-      exe: gftools
-      args: 'gen-stat ../fonts/variable/StrichpunktSansExp[wght].ttf --src sources/stat-1axis.yaml --inplace'
+      exe: bash
+      args: '-lc ''SRC="$$(git rev-parse --show-toplevel)/sources/stat-1axis.yaml"; gftools gen-stat ../fonts/variable/StrichpunktSansExp[wght].ttf --src "$$SRC" --inplace'''
