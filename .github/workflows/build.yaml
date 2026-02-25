@@ -63,7 +63,7 @@ jobs:
     - name: Generate proofs
       run: |
         . venv/bin/activate
-        python -m pip install -U pip setuptools wheel
+        python -m pip install -U pip wheel
         make proof
     - name: Set up test result site
       run: cp scripts/index.html out/index.html
