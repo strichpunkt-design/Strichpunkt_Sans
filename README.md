@@ -1,1 +1,1 @@
-# Strichpunkt_Sans
+# Strichpunkt Sans
