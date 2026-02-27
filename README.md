@@ -56,10 +56,13 @@ Fonts are built automatically by GitHub Actions - take a look in the "Actions" t
 If you want to build fonts manually on your own computer:
 
 * `make build` will produce font files.
-* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
+* `make test` will run [Fontspector](https://github.com/fonttools/fontspector) quality assurance checks.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at `https://github.com/strichpunkt-design/Strichpunkt_Sans`.
+Note: In Google Workspace, the Expanded width appears as “Strichpunkt Sans Exp” to ensure cross-platform compatibility.
+
+Fonts are built automatically by GitHub Actions. Take a look at the "Actions" tab for the latest build.
+
 
 
 ## Changelog
