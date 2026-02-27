@@ -16,6 +16,7 @@ BASE_OWNER = "googlefonts"
 BASE_REPONAME = "googlefonts-project-template"
 DUMMY_URL = "https://yourname.github.io/your-font-repository-name"
 LATEST_OFL = "https://raw.githubusercontent.com/googlefonts/googlefonts-project-template/main/OFL.txt"
+README_PATH = "README.md"
 
 
 def repo_url(owner, name):
@@ -65,7 +66,8 @@ if owner == BASE_OWNER and reponame == BASE_REPONAME:
 
 # We will also pin the dependencies so future builds are reproducible.
 
-readme = open("README.md").read()
+with open(README_PATH) as fh_read:
+    readme = fh_read.read()
 ghpages_url = web_url(owner, reponame)
 project_url = repo_url(owner, reponame)
 
@@ -82,10 +84,10 @@ readme = readme.replace(
 print("Fixing URLs:", DUMMY_URL, "->", ghpages_url)
 readme = readme.replace(f"`{DUMMY_URL}`", ghpages_url)
 
-with open("README.md", "w") as fh:
+with open(README_PATH, "w") as fh:
     fh.write(readme)
 
-git.add("README.md")
+git.add(README_PATH)
 
 # Fix the OFL
 year = datetime.date.today().year

@@ -9,12 +9,13 @@ on:
     tags:
       - '*'
 
-permissions: write-all
-
 jobs:
   build:
     name: Build and test
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
     steps:
     - uses: actions/checkout@v6
     - name: Set up Python 3.11
@@ -22,7 +23,7 @@ jobs:
       with:
         python-version: "3.11"
     - name: Setup fontspector
-      uses: fonttools/setup-fontspector@main
+      uses: fonttools/setup-fontspector@e880cbf998ccd5950c1afceac4efa872a056aa3f
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Install toolset
@@ -40,20 +41,9 @@ jobs:
       id: zip-name
       shell: bash
       # Set the archive name to repo name + "-fonts" e.g "radiocanadafonts-fonts.zip"
-      run: echo "ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-fonts" >> $GITHUB_ENV
-
-    # If a new release is cut, use the release tag to auto-bump the source files
-    # - name: Bump release
-    #   if: github.event_name == 'release'
-    #   run: |
-    #     . venv/bin/activate
-    #     SRCS=$(yq e ".sources[]" sources/config.yaml)
-    #     TAG_NAME=${GITHUB_REF/refs\/tags\//}
-    #     echo "Bumping $SRCS to $TAG_NAME"
-    #     for src in $SRCS
-    #     do
-    #       bumpfontversion sources/$src --new-version $TAG_NAME;
-    #     done
+      run: |
+        ZIP_NAME="$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-fonts"
+        echo "ZIP_NAME=$ZIP_NAME" >> $GITHUB_OUTPUT
 
     - name: Build font
       run: make build
@@ -74,12 +64,12 @@ jobs:
     - name: Archive artifacts
       uses: actions/upload-artifact@v4
       with:
-        name: ${{ env.ZIP_NAME }}
+        name: ${{ steps.zip-name.outputs.ZIP_NAME }}
         path: |
           fonts
           out
     outputs:
-      zip_name: ${{ env.ZIP_NAME }}
+      zip_name: ${{ steps.zip-name.outputs.ZIP_NAME }}
 
   # There are two ways a release can be created: either by pushing a tag, or by
   # creating a release from the GitHub UI. Pushing a tag does not automatically
@@ -92,8 +82,11 @@ jobs:
     if: contains(github.ref, 'refs/tags/')
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
-      ZIP_NAME: ${{ needs.build.outputs.zip_name }}
+      ZIP_NAME: ${{ github.event.repository.name }}-fonts
+      RELEASE_ZIP_NAME: ${{ github.event.repository.name }}-${{ github.ref_name }}
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v6
@@ -109,9 +102,6 @@ jobs:
         run: cp OFL.txt ${{ env.ZIP_NAME }}/OFL.txt
       - name: Remove proof/test outputs from release
         run: rm -rf ${{ env.ZIP_NAME }}/out
-      - name: Set release file name
-        shell: bash
-        run: echo "RELEASE_ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-${{github.ref_name}}" >> $GITHUB_ENV
       - name: Create release bundle
         run: mv ${{ env.ZIP_NAME }} ${{ env.RELEASE_ZIP_NAME }}; zip -r ${{ env.RELEASE_ZIP_NAME }}.zip ${{ env.RELEASE_ZIP_NAME }}
       - name: Check for release

@@ -20,11 +20,11 @@ FONT_PATH = "fonts/variable/StrichpunktSans[wdth,wght].ttf"
 font = TTFont(FONT_PATH)
 name_table = font["name"]
 
-def set_all_name_records(nameID: int, value: str):
-    """Set all existing records of nameID to value; return count updated."""
+def set_all_name_records(name_id: int, value: str):
+    """Set all existing records of name_id to value; return count updated."""
     updated = 0
     for rec in name_table.names:
-        if rec.nameID == nameID:
+        if rec.nameID == name_id:
             rec.string = value.encode(rec.getEncoding())
             updated += 1
     return updated
@@ -61,8 +61,8 @@ for rec in name_table.names:
         if s.startswith(prefix) and not s.startswith(FAMILY_NAME + " "):
             s = FAMILY_NAME + " " + s[prefix_len:]
             rec.string = s.encode(rec.getEncoding())
-    except Exception:
-        pass
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        continue
 
 font.save(FONT_PATH)
 print(f"💾 Saved: {FONT_PATH}")
