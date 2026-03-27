@@ -5,6 +5,7 @@ familyName: "Strichpunkt Sans"
 buildStatic: true
 buildWebfont: false
 recipeProvider: googlefonts
+cleanUp: true
 
 recipe:
   # 1) Full VF (wght + wdth): add STAT + fix-nonhinting
